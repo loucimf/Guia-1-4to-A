@@ -3,10 +3,6 @@ using UnityEngine;
 
 public class AnimalesScript : MonoBehaviour
 {
-    enum Tipodeanimal
-    {
-        
-    }
     #region Variables
     
     [field: SerializeField] public AnimalCode animalCode;
